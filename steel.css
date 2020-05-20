@@ -1,3 +1,36 @@
 body {
-  font-family: sans-serif;
+  font-family: system-ui, sans-serif;
+  color: #424456;
+  line-height: 1.5;
+  font-size: 120%;
+  max-width: 40em;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 2em;
+  font-weight: 400;
+}
+
+a {
+  color: #3273dc;
+}
+
+code {
+  background-color: #f4f5f6;
+  padding: 0.2em 0.4em;
+}
+
+pre > code {
+  background-color: #f4f5f6;
+  border-left: 0.4em solid #3273dc;
+  padding: 1em;
+  display: block;
+  overflow-x: scroll;
 }
