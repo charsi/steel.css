@@ -23,6 +23,8 @@ a {
 }
 
 code {
+  font-family: Menlo, monospace;
+  font-size: 80%;
   background-color: #f4f5f6;
   padding: 0.2em 0.4em;
 }
