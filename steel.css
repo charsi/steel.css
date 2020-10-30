@@ -63,6 +63,6 @@ img {
   max-width: 45em;
 }
 
-.header img{
+img.header{
   max-width: 65em;
 }
