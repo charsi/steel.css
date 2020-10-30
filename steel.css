@@ -62,3 +62,7 @@ pre > code {
 img {
   max-width: 45em;
 }
+
+.header img{
+  max-width: 65em;
+}
