@@ -58,3 +58,7 @@ pre > code {
   padding: 1em;
   white-space: pre-wrap;
 }
+
+img {
+  max-width: 45em;
+}
