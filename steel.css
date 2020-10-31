@@ -142,4 +142,8 @@ img.header{
       color: #e8e6e3 !important;
   }
 
+  div.littlefoot-footnote__content {
+    background-color:#333;
+  }
+
 }
