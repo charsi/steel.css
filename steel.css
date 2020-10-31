@@ -64,8 +64,29 @@ img {
 }
 
 img.header{
-  max-width: 65em;
+  max-width: 45em;
 }
+
+
+@media only screen and (max-width: 479px){  
+  img {
+    width: 18em;
+  }
+  img.header{
+    max-width: 18em;
+  }
+}
+
+@media only screen and  (min-width: 480px) and (max-width: 719px){  
+  img {
+    width: 24em;
+  }
+  img.header{
+    max-width: 24em;
+  }
+}
+
+
 
 @media (prefers-color-scheme: dark) {
   html {
